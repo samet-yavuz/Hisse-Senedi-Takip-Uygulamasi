@@ -1,0 +1,4 @@
+Takip listenize hisse senedi ekleyebilir veya takip listenizden hisse senedi çıkarabilirsiniz.
+Ekleme işlemi için sağda bulunan panelden hisse senedinin kodu seçilir ve ekle tuşuna basılır.
+Çıkarma işlemi içinse takip listesindeki "X" butonuna basılır.
+Yapılan değişikliklerin kaydedilmesi için kaydet butonuna basılması gerekir.

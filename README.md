@@ -4,6 +4,6 @@ Ekleme işlemi için sağda bulunan panelden hisse senedinin kodu seçilir ve ek
 Çıkarma işlemi içinse takip listesindeki "X" butonuna basılır.
 Yapılan değişikliklerin kaydedilmesi için kaydet butonuna basılması gerekir.
 Veriler "https://uzmanpara.milliyet.com.tr/canli-borsa/bist-TUM-hisseleri/" sitesinden çekilmektedir.(Koddan Değiştirilebilir)
-
+Hisse.exe dosyasını çalıştırarak kullanmaya başlayabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/75983925/235351887-69205e16-0e35-491b-9e69-1b45dd8937d5.png)
